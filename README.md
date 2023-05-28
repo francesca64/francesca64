@@ -8,4 +8,4 @@ Original creator of [cargo-mobile](https://dev.brainiumstudios.com/2020/11/24/ca
 
 Former lead maintainer of [winit](https://github.com/rust-windowing/winit/), a pure Rust window creation and input handling library.
 
-Last but not least, artist for all of my wife's projects! (profile pic drawn by me 🤎)
+Last but not least, artist for all of my wife's projects! (profile pic drawn by me 🧡)
