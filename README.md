@@ -2,7 +2,7 @@
 
 I'm Francesca! My wife and I started a game studio, so please look forward to our upcoming game (written in Rust!)
 
-I spent a lot of time in my career helping other people, so I'm finally giving myself a break and focusing on myself.
+After a long break, I've decided to be active online again.
 
 I'll probably make a blog soon to write about Vulkan and other fun things.
 
