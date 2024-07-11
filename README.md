@@ -4,7 +4,7 @@ I'm Francesca! My wife and I started a game studio, so please look forward to ou
 
 After a long break, I've decided to be active online again.
 
-I'll probably make a blog soon to write about Vulkan and other fun things.
+I'll make a blog soon to write about Vulkan and other fun things.
 
 - Rustacean since 2016 (web developer before that)
 - Arch Linux enthusiast (formerly Gentoo)
